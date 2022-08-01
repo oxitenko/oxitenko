@@ -15,9 +15,9 @@
 
 <div width="300px">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api?username=oxitenko&show_icons=true&theme=tokyonight" />
+  <img align="center" padding-right="10px" src="https://github-readme-stats.vercel.app/api?username=oxitenko&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxitenko&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxitenko&theme=tokyonight" />
 </a>
 </div>
