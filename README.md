@@ -18,6 +18,6 @@
   <img align="center" width="auto" src="https://github-readme-stats.vercel.app/api?username=oxitenko&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxitenko" />
+  <img align="center" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxitenko&theme=tokyonight" />
 </a>
 </div>
