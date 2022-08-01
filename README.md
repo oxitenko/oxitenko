@@ -1,8 +1,18 @@
 <div align="center">
-<img src="" width="100px"/>
+<img src="https://github.com/oxitenko/oxitenko/blob/main/marginalia-robot-cat-1.png" width="100px"/>
+<div id="badges">
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/p/CbxaCYULHFB/?igshid=YmMyMTA2M2Y=">
+    <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/OksiTenko?t=pt7T0as_kOruYERC_YOFtg&s=09">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 </div>
 
-#
 ### Hello 👋 I'm Oksana Komarova!
 #
 
