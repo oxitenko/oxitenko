@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/oksana-komarova-a27835251/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/p/CbxaCYULHFB/?igshid=YmMyMTA2M2Y=">
+  <a href="https://www.instagram.com/oxi_tenko/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/OksiTenko?t=pt7T0as_kOruYERC_YOFtg&s=09">
