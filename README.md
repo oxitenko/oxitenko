@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/oxitenko/oxitenko/blob/main/marginalia-robot-cat-1.png" width="100px"/>
 <div id="badges">
-  <a href="">
+  <a href="https://www.linkedin.com/in/oksana-komarova-a27835251/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/p/CbxaCYULHFB/?igshid=YmMyMTA2M2Y=">
